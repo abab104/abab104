@@ -1,7 +1,7 @@
-- 👋 Hi, I’m 延冠勳
-- 👀 I’m interested in 打瓦
-- 🌱 I’m currently learning how to rush A
-- 💞️ I’m looking to collaborate on 五排
+- 👋 Hi, I’m 延冠勲
+- 👀 I’m interested in web design
+- 🌱 I’m currently learning how to graphic design
+- 💞️ I’m looking to collaborate on personal entrustment
 - 😄 Pronouns: .ch
 - ⚡ Fun fact: 
 
